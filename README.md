@@ -1,2 +1,2 @@
 # Repository-1
-This is my repository for CS 193 
+This repository is acting as a place where I can store my files instead of having them saved to my device locally.
